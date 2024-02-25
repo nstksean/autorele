@@ -1,0 +1,19 @@
+{
+  "name": "autore",
+  "version": "0.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nstksean/autorele.git"
+  },
+  "author": "sean",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nstksean/autorele/issues"
+  },
+  "homepage": "https://github.com/nstksean/autorele#readme"
+}
